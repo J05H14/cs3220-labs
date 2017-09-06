@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    background-color: #000033;
+    color:#FFFFFF;
+    padding: 30px;
+}
+body{
+    background-color: #0014FF;
+}
+.nav{
+    margin: 0;
+    background-color: skyblue;
+    border: 2px solid black;
+    float: left;
+    
+}
+.nav th{
+    font-size: 150%;
+    padding: 10px 70px; 
+}
+.nav td{
+    padding: 10px 70px;
+    border: 1px solid white;
+}
+p{
+    margin: 30px;
+    margin-left: 350px;
+    color: white;
+}
+footer{
+    background-color: white;
+    text-align: center;
+}
